@@ -12,6 +12,8 @@ hero:
     - theme: alt
       text: Our Stack
       link: setup/stack
+  image:
+    src: "/nerd.png"
 
 features:
   - title: Professional Workflows
