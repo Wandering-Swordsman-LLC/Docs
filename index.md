@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get started
-      link: /tutorial/terminal
+      link: /guide/terminal
     - theme: alt
       text: Our Stack
       link: setup/stack

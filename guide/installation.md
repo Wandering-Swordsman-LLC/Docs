@@ -4,7 +4,7 @@
 * Open this [website](https://github.com/)
 * Create a new account
 :::warning
-Don't provide your personal email unless you are fine with other people seeing it. But it is **recommened** to put your email. You might use this account for future work in actual companies.
+Don't provide your personal email unless you are fine with other people seeing it. But it is **recommended** to put your email. You might use this account for future work in actual companies.
 :::
 
 ## Github CLI
@@ -26,7 +26,7 @@ Press HTTPS
 > HTTPS
   SSH
 ```
-Press Login with web broswer
+Press Login with web browser
 ```
 ? How would you like to authenticate GitHub CLI?  [Use arrows to move, type to filter]
 > Login with a web browser

@@ -1,5 +1,5 @@
 # Setting Up the Workspace
-For the tutorial here, we will mainly use bash/CLI commands. If you have previous knowledge of git/github and perfers external tools such as [Github Desktop](https://desktop.github.com/download/) or [source control within vscode](https://code.visualstudio.com/docs/sourcecontrol/overview) you are free to do that instead.
+For the tutorial here, we will mainly use bash/CLI commands. If you have previous knowledge of git/github and prefers external tools such as [Github Desktop](https://desktop.github.com/download/) or [source control within vscode](https://code.visualstudio.com/docs/sourcecontrol/overview) you are free to do that instead.
 
 ## Cloning the repository
 ```bash

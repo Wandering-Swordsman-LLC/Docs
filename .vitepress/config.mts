@@ -16,19 +16,20 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Resources', link: '/resources'}
+      { text: 'Resources', link: '/resources'},
+      { text: 'Rules', link: '/rules'}
     ],
 
     sidebar: {
-      '/tutorial': [
+      '/guide': [
         {
           text: 'Getting Started',
           items: [
-            { text: 'Terminal', link: '/tutorial/terminal' },
-            { text: 'Installation', link: '/tutorial/installation' },
-            { text: 'Workspace', link: '/tutorial/workspace' },
-            { text: 'Locations', link: '/tutorial/locations' }
+            { text: 'Terminal', link: '/guide/terminal' },
+            { text: 'Installation', link: '/guide/installation' },
+            { text: 'Workspace', link: '/guide/workspace' },
+            { text: 'Locations', link: '/guide/locations' },
+            { text: 'User Interface', link: '/guide/ui' }
 
           ],
         }

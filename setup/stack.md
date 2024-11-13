@@ -9,7 +9,7 @@
 ## ⚛️ UI 
 * [React-lua - Roblox official port from React-17](https://www.npmjs.com/package/@rbxts/react-ts)
 * [Ripple - UI animations & transition](https://www.npmjs.com/package/@rbxts/ripple)
-* [Vistualized Lists - Memory reduction for scrolling frames](https://www.npmjs.com/package/@rbxts/virtualized-list)
+* [Virtualized Lists - Memory reduction for scrolling frames](https://www.npmjs.com/package/@rbxts/virtualized-list)
 
 ## 💾 DataStores 
 * [Lapis - DataStore abstraction similar to ProfileService](https://github.com/nezuo/lapis)
