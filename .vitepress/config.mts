@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Wandering Swordsman Docs",
   description: "Official documentation on how to setup the workspace, stack, workflows. Used internally. ",
+  base: "/Docs/",
   markdown: {
     image: {
       lazyLoading: true
